@@ -211,3 +211,9 @@ src/
 |-- tailwind.config.js
 |-- webpack.config.js
 ```
+
+## Stay in touch
+
+- Author - [Meshach Arinze](meshacharinze@gmail.com)
+- Website - [devsfolio](https://devsfolio-nine.vercel.app/)
+- Linkedin - [Linkedin](https://linkedin.com/in/meshach-ekene)
